@@ -17,4 +17,4 @@
 </p>
 
 ## 📁 Project access
-You can access the project files by clicking [here](https://github.com/Coastony/to-do-list)
+You can access the project files by clicking [here](https://github.com/Coastony/product_card)
